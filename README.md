@@ -13,16 +13,20 @@ In this chapter of the course, the template was separated into 5 modules to buil
 
 #Avatar
 
- - Because it appears several times in the template, the creator chose a module just for it
+ - As it appears several times in the template, it was decided to create a module just for it with the intention of making the code "cleaner".
 
 #Comments
- - Made to style the content referring to user comments
+
+ - Made to style the content referring to user comments.
 
 #Header
- - Made to style the outermost header of the page that carries the ignite logo
+
+ - Made to style the outermost header of the page that carries the ignite logo.
 
 #Post
- - Made to style the main post, the <Comment/> modules are inserted here
+
+ - Made to style the main post, the <Comment/> modules are inserted here.
 
 #SideBar
- - Made to style the sidebar where the logged in user is located
+
+ - Made to style the sidebar where the logged in user is located.
