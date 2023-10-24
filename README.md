@@ -12,6 +12,7 @@ Currently, two official plugins are available:
 In this chapter of the course, the template was separated into 5 modules to build the template
 
 #Avatar
+
  -Because it appears several times in the template, the creator chose a module just for it
 
 #Comments
