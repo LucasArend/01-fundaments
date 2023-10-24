@@ -13,7 +13,7 @@ In this chapter of the course, the template was separated into 5 modules to buil
 
 #Avatar
 
- -Because it appears several times in the template, the creator chose a module just for it
+ - Because it appears several times in the template, the creator chose a module just for it
 
 #Comments
  - Made to style the content referring to user comments
